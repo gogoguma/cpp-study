@@ -4,10 +4,10 @@
 #include <iostream>
 using namespace std;
 
-void RunDay02();;
+void RunUniquePtr();
 
 int main()
 {
-	RunDay02();
+	RunUniquePtr();
 
 }

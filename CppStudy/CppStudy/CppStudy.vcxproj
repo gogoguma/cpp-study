@@ -126,6 +126,7 @@
     <ClCompile Include="CppStudy.cpp" />
     <ClCompile Include="Day01\PointerReference.cpp" />
     <ClCompile Include="Day02\HeapAllocation.cpp" />
+    <ClCompile Include="Day02\UniquePtr.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
