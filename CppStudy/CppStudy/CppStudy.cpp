@@ -4,10 +4,10 @@
 #include <iostream>
 using namespace std;
 
-void RunDay01();;
+void RunDay02();;
 
 int main()
 {
-	RunDay01();
+	RunDay02();
 
 }
