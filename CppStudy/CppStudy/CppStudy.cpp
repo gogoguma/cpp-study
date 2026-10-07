@@ -4,9 +4,9 @@
 #include <iostream>
 using namespace std;
 
-void RunCopyBasics();
+void RunShallowCopy();
 
 int main()
 {
-    RunCopyBasics();
+    RunShallowCopy();
 }
