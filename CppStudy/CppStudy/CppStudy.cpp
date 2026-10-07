@@ -4,12 +4,9 @@
 #include <iostream>
 using namespace std;
 
-void RunClassBasics();
+void RunCopyBasics();
 
 int main()
 {
-	RunClassBasics();
-
-	
-
+    RunCopyBasics();
 }
