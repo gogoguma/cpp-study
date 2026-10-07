@@ -129,6 +129,7 @@
     <ClCompile Include="Day02\HeapAllocation.cpp" />
     <ClCompile Include="Day02\UniquePtr.cpp" />
     <ClCompile Include="Day03\CopyBasics.cpp" />
+    <ClCompile Include="Day03\DeepCopy.cpp" />
     <ClCompile Include="Day03\ShallowCopy.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
