@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="CppStudy.cpp" />
     <ClCompile Include="Day01\PointerReference.cpp" />
+    <ClCompile Include="Day02\ClassBasics.cpp" />
     <ClCompile Include="Day02\HeapAllocation.cpp" />
     <ClCompile Include="Day02\UniquePtr.cpp" />
   </ItemGroup>

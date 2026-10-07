@@ -4,10 +4,12 @@
 #include <iostream>
 using namespace std;
 
-void RunUniquePtr();
+void RunClassBasics();
 
 int main()
 {
-	RunUniquePtr();
+	RunClassBasics();
+
+	
 
 }
